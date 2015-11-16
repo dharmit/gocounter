@@ -6,7 +6,7 @@ Every time you access the web page, a message is displayed which indicates the
 number of times the web page was accessed in past one minute.
 
 Motivation of this example is to showcase a quick example running using
-atomicapp. The Docker image `dharmit/gocounterapp` is under 7 MB in size!
+atomicapp. The Docker image `dharmit/gocounter` is under 7 MB in size!
 
 ###Prerequisites
 
